@@ -44,6 +44,6 @@ Key Insights:
 4) Engine manufacturers like Mercedes and Ferrari show long-term dominance.
 5) Driver performance varies significantly across eras due to rule changes.
 
-
-
 This project demonstrates how SQL can be used for real-world sports analytics. By structuring Formula One data in a relational database, meaningful insights about drivers, constructors, and historical trends can be extracted efficiently.
+
+https://github.com/yashjaddhav/Formula-1-Championship-Analysis/blob/main/Snapshot.pdf
